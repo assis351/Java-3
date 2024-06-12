@@ -1,3 +1,3 @@
 # Java-3
 
-github trabalhoestá marcado com CC0 1.0 por L 
+https://creativecommons.org/publicdomain/zero/1.0/ 
